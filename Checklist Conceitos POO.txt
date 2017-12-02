@@ -1,0 +1,13 @@
+x Classes
+x Objetos
+x Atributos/Campos
+x Propriedades/Getter-Setter
+x Métodos
+- Construtores
+x Herança
+x Associação
+x Encapsulamento
+x Abstração
+- Polimorfismo (Sobrescrita / Sobrecarga)
+- Interfaces
+x Pacotes
